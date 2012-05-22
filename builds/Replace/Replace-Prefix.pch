@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Replace' target in the 'Replace' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
